@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/s-tyda?template=classic&isocalendar=1&languages=1&followup=1&lines=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&config.timezone=Europe%2FWarsaw)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
